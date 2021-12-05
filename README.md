@@ -5,9 +5,9 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on HNGI8 Internship
+- 🔭 I'm currently self learning
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Database projects
 - 🤔 I’m looking for help with understanding how this whole thing works
-- 💬 Ma fejo pami, e mi gan lejo lowo... Are you vhere?
-- 📫 How to reach me: @kennee_maestro on Jack's bird app or Zuck's IG
+- 💬 HNG & Zuri alumni
+- 📫 How to reach me: @kennee_maestro on twitter & IG
