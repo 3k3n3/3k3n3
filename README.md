@@ -3,7 +3,6 @@
 <!--
 **3k3n3/3k3n3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - 🔭 I'm currently enrolled on ALX Holberton SE Program
 - 🌱 I’m currently learning Python
